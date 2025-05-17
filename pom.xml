@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.klef.jfsd.project</groupId>
-	<artifactId>StudentProjectAndPortfolioManagement</artifactId>
+	<artifactId>StudentsProjectAndPortfolioManagement</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>StudentProjectAndPortfolioManagement</name>
